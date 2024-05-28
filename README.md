@@ -1,6 +1,9 @@
 
 ### 📊 Excel Project: E-Commerce Sales Insights
 
+![image](https://github.com/DrPoojaAbhijith/Excel_Project-E-Commerce-Sales-Insights/assets/160575120/8de6bd65-ee91-410d-9b0e-89354cc34677)
+
+
 #### 📝 Background
 E-commerce is one of the fastest-growing sectors as more customers prefer to purchase online. Many businesses are implementing websites for commercial transactions over the web, making online shopping common place.
 
