@@ -61,12 +61,6 @@ E-commerce is one of the fastest-growing sectors as more customers prefer to pur
 - Built a pie chart and column chart for category-wise profit and sales, respectively.
 - Implemented a bar chart to showcase sales by state.
 
-#### 🎓 LinkedIn Skill Badges
-- **📊 Excel**: Demonstrated proficiency in using Excel for data analysis and visualization.
-- **📊 Data Analysis**: Showcased ability to interpret complex datasets and derive actionable insights.
-- **🛒 E-commerce**: Applied knowledge of e-commerce dynamics to analyze and improve sales strategies.
-- **📊 Business Intelligence**: Leveraged BI tools and techniques to support strategic business decisions.
-
 
 ![image](https://github.com/DrPoojaAbhijith/Excel_Project-E-Commerce-Sales-Insights/assets/160575120/0e0e0a1d-15cd-4e6b-8ead-4d606796deec)
 
